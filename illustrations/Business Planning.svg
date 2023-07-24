@@ -1,0 +1,1410 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1200 460" style="enable-background:new 0 0 1200 460;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;}
+	.st1{opacity:6.000000e-02;enable-background:new    ;}
+	.st2{fill:#515D6B;}
+	.st3{fill:url(#path-1_2_);fill-opacity:2.000000e-02;}
+	.st4{fill:#292F36;}
+	.st5{fill:url(#path-4_2_);fill-opacity:2.411685e-02;}
+	.st6{fill:#588CBE;}
+	.st7{fill:url(#path-7_2_);fill-opacity:2.411685e-02;}
+	.st8{fill:#6B7A8C;}
+	.st9{fill:url(#path-10_2_);fill-opacity:2.000000e-02;}
+	.st10{fill:#5D6B7A;}
+	.st11{fill-opacity:0.1;}
+	.st12{opacity:0.1;enable-background:new    ;}
+	.st13{fill:#EFEFEF;}
+	.st14{fill:url(#path-13_2_);fill-opacity:2.000000e-02;}
+	.st15{fill:#FFFFFF;}
+	.st16{fill:url(#path-16_2_);fill-opacity:2.000000e-02;}
+	.st17{fill:#7B7B7B;}
+	.st18{fill:#E86E6E;}
+	.st19{fill:#6EC2E8;}
+	.st20{fill:#FDAD5F;}
+	.st21{fill:#E8E5E5;}
+	.st22{fill:url(#path-19_2_);fill-opacity:2.000000e-02;}
+	.st23{fill:url(#path-22_2_);fill-opacity:2.000000e-02;}
+	.st24{fill:url(#path-25_2_);fill-opacity:2.000000e-02;}
+	.st25{fill:url(#path-28_2_);fill-opacity:2.000000e-02;}
+	.st26{fill:#E7DE8D;}
+	.st27{fill:url(#path-31_2_);fill-opacity:2.000000e-02;}
+	.st28{fill:#FFF9C1;}
+	.st29{fill:url(#path-34_2_);fill-opacity:2.000000e-02;}
+	.st30{opacity:0.4;fill:#FFFFFF;enable-background:new    ;}
+	.st31{fill:url(#path-37_2_);fill-opacity:2.000000e-02;}
+	.st32{opacity:2.751359e-02;enable-background:new    ;}
+	.st33{fill:url(#path-40_2_);fill-opacity:2.000000e-02;}
+	.st34{fill:#1A1A1A;}
+	.st35{fill:#8599C3;}
+	.st36{fill:url(#path-43_2_);fill-opacity:4.000000e-02;}
+	.st37{fill:url(#path-47_2_);}
+	.st38{fill:url(#path-47_4_);fill-opacity:2.411685e-02;}
+	.st39{fill:#E5E5E5;}
+	.st40{fill:url(#path-51_2_);}
+	.st41{fill:url(#path-51_4_);fill-opacity:2.411685e-02;}
+	.st42{fill:url(#path-54_2_);}
+	.st43{fill:url(#path-54_4_);fill-opacity:2.411685e-02;}
+	.st44{opacity:0.1056;fill:#FFFFFF;enable-background:new    ;}
+	.st45{opacity:0.1056;enable-background:new    ;}
+	.st46{fill:none;stroke:#E86E6E;stroke-width:4;}
+	.st47{fill-opacity:0.2;}
+	.st48{fill:url(#path-57_2_);fill-opacity:4.000000e-02;}
+	.st49{fill:#676767;}
+	.st50{fill:url(#path-60_2_);fill-opacity:6.000000e-02;}
+	.st51{fill:#FBFBFB;}
+	.st52{fill:url(#path-63_2_);fill-opacity:2.000000e-02;}
+	.st53{fill:url(#path-66_2_);fill-opacity:2.000000e-02;}
+	.st54{fill:url(#path-69_2_);fill-opacity:2.000000e-02;}
+	.st55{fill:url(#path-72_2_);fill-opacity:2.000000e-02;}
+	.st56{fill:url(#path-75_2_);fill-opacity:2.000000e-02;}
+	.st57{fill:url(#path-78_2_);fill-opacity:2.000000e-02;}
+	.st58{fill:url(#path-81_2_);fill-opacity:2.000000e-02;}
+	.st59{fill:url(#path-85_2_);}
+	.st60{fill:url(#path-85_4_);fill-opacity:4.000000e-02;}
+	.st61{fill:#CCCCCC;}
+	.st62{fill:#E6E6E6;}
+	.st63{fill:#EBEBEB;}
+	.st64{fill:url(#path-88_2_);}
+	.st65{fill:url(#path-88_4_);fill-opacity:2.411685e-02;}
+	.st66{fill:#D2D2D2;}
+	.st67{fill:url(#path-91_2_);fill-opacity:1.616168e-02;}
+	.st68{opacity:0.2;fill:#FFFFFF;enable-background:new    ;}
+	.st69{fill:#B8B8B8;}
+	.st70{fill:url(#path-94_2_);fill-opacity:2.000000e-02;}
+	.st71{fill:url(#path-97_2_);fill-opacity:2.000000e-02;}
+	.st72{opacity:0.1;fill:#FFFFFF;enable-background:new    ;}
+	.st73{fill:#DBDBDB;}
+	.st74{fill:url(#path-100_2_);fill-opacity:1.641757e-02;}
+	.st75{fill:#C2C2C2;}
+	.st76{fill:#2889FF;fill-opacity:0.2;}
+	.st77{fill:url(#path-103_2_);fill-opacity:6.000000e-02;}
+	.st78{fill:url(#path-107_2_);}
+	.st79{fill:url(#path-107_4_);fill-opacity:2.411685e-02;}
+	.st80{fill:#666666;}
+	.st81{fill:url(#path-110_2_);fill-opacity:1.817255e-02;}
+	.st82{fill:url(#path-113_2_);fill-opacity:1.817255e-02;}
+	.st83{fill:url(#path-116_2_);fill-opacity:1.817255e-02;}
+	.st84{fill:url(#path-119_2_);fill-opacity:1.817255e-02;}
+	.st85{fill:url(#path-122_2_);fill-opacity:1.817255e-02;}
+	.st86{fill:url(#path-125_2_);fill-opacity:1.817255e-02;}
+	.st87{fill:url(#path-128_2_);fill-opacity:1.817255e-02;}
+	.st88{fill:url(#path-131_2_);fill-opacity:1.817255e-02;}
+	.st89{fill:#77D6BB;}
+	.st90{fill:url(#path-134_2_);fill-opacity:1.551178e-02;}
+	.st91{fill:#FF8585;}
+	.st92{fill:url(#path-137_2_);fill-opacity:2.000000e-02;}
+	.st93{fill:#DE7373;}
+	.st94{fill:url(#path-140_2_);fill-opacity:2.000000e-02;}
+	.st95{fill:#4D4D4D;}
+	.st96{fill:#FDD75F;}
+	.st97{fill:url(#path-143_2_);fill-opacity:2.000000e-02;}
+	.st98{fill:#FDDE5F;}
+	.st99{fill:url(#path-146_2_);fill-opacity:2.000000e-02;}
+	.st100{fill:url(#path-149_2_);fill-opacity:2.000000e-02;}
+	.st101{fill:url(#path-152_2_);fill-opacity:2.000000e-02;}
+	.st102{fill:#FDE55F;}
+	.st103{fill:#F1BC45;}
+	.st104{font-family:'JCHEadA';}
+	.st105{font-size:28px;}
+</style>
+<pattern  y="460" width="258" height="258" patternUnits="userSpaceOnUse" id="pattern-101" viewBox="0 -258 258 258" style="overflow:visible;">
+	<g>
+		<rect y="-258" class="st0" width="258" height="258"/>
+		<g>
+			
+				<image style="overflow:visible;enable-background:new    ;" width="258" height="258" id="image-102_1_" xlink:href="8CCC1396D08D5F2D.png"  transform="matrix(1 0 0 -1 258 -258)">
+			</image>
+		</g>
+	</g>
+</pattern>
+<pattern  y="460" width="258" height="258" patternUnits="userSpaceOnUse" id="pattern-104" viewBox="0 -258 258 258" style="overflow:visible;">
+	<g>
+		<rect y="-258" class="st0" width="258" height="258"/>
+		<g>
+			
+				<image style="overflow:visible;enable-background:new    ;" width="258" height="258" id="image-105_1_" xlink:href="8CCC1396D08D5F2F.png"  transform="matrix(1 0 0 -1 258 -251)">
+			</image>
+		</g>
+	</g>
+</pattern>
+<pattern  y="460" width="258" height="258" patternUnits="userSpaceOnUse" id="pattern-108" viewBox="0 -258 258 258" style="overflow:visible;">
+	<g>
+		<rect y="-258" class="st0" width="258" height="258"/>
+		<g>
+			
+				<image style="overflow:visible;enable-background:new    ;" width="258" height="258" id="image-109_1_" xlink:href="8CCC1396D08D5F2A.png"  transform="matrix(1 0 0 -1 248 -246)">
+			</image>
+		</g>
+	</g>
+</pattern>
+<pattern  y="460" width="258" height="258" patternUnits="userSpaceOnUse" id="pattern-11" viewBox="0 -258 258 258" style="overflow:visible;">
+	<g>
+		<rect y="-258" class="st0" width="258" height="258"/>
+		<g>
+			
+				<image style="overflow:visible;enable-background:new    ;" width="258" height="258" id="image-12_1_" xlink:href="8CCC1396D08D5F2B.png"  transform="matrix(1 0 0 -1 251 -141)">
+			</image>
+		</g>
+	</g>
+</pattern>
+<pattern  y="460" width="258" height="258" patternUnits="userSpaceOnUse" id="pattern-111" viewBox="0 -258 258 258" style="overflow:visible;">
+	<g>
+		<rect y="-258" class="st0" width="258" height="258"/>
+		<g>
+			
+				<image style="overflow:visible;enable-background:new    ;" width="258" height="258" id="image-112_1_" xlink:href="8CCC1396D08D5F35.png"  transform="matrix(1 0 0 -1 238 -258)">
+			</image>
+		</g>
+	</g>
+</pattern>
+<pattern  y="460" width="258" height="258" patternUnits="userSpaceOnUse" id="pattern-114" viewBox="0 -258 258 258" style="overflow:visible;">
+	<g>
+		<rect y="-258" class="st0" width="258" height="258"/>
+		<g>
+			
+				<image style="overflow:visible;enable-background:new    ;" width="258" height="258" id="image-115_1_" xlink:href="8CCC1396D08D5F37.png"  transform="matrix(1 0 0 -1 222 -258)">
+			</image>
+		</g>
+	</g>
+</pattern>
+<pattern  y="460" width="258" height="258" patternUnits="userSpaceOnUse" id="pattern-117" viewBox="0 -258 258 258" style="overflow:visible;">
+	<g>
+		<rect y="-258" class="st0" width="258" height="258"/>
+		<g>
+			
+				<image style="overflow:visible;enable-background:new    ;" width="258" height="258" id="image-118_1_" xlink:href="8CCC1396D08D5F3A.png"  transform="matrix(1 0 0 -1 206 -258)">
+			</image>
+		</g>
+	</g>
+</pattern>
+<pattern  y="460" width="258" height="258" patternUnits="userSpaceOnUse" id="pattern-120" viewBox="0 -258 258 258" style="overflow:visible;">
+	<g>
+		<rect y="-258" class="st0" width="258" height="258"/>
+		<g>
+			
+				<image style="overflow:visible;enable-background:new    ;" width="258" height="258" id="image-121_1_" xlink:href="8CCC1396D08D5F3B.png"  transform="matrix(1 0 0 -1 190 -258)">
+			</image>
+		</g>
+	</g>
+</pattern>
+<pattern  y="460" width="258" height="258" patternUnits="userSpaceOnUse" id="pattern-123" viewBox="0 -258 258 258" style="overflow:visible;">
+	<g>
+		<rect y="-258" class="st0" width="258" height="258"/>
+		<g>
+			
+				<image style="overflow:visible;enable-background:new    ;" width="258" height="258" id="image-124_1_" xlink:href="8CCC1396D08D5F3D.png"  transform="matrix(1 0 0 -1 174 -258)">
+			</image>
+		</g>
+	</g>
+</pattern>
+<pattern  y="460" width="258" height="258" patternUnits="userSpaceOnUse" id="pattern-126" viewBox="0 -258 258 258" style="overflow:visible;">
+	<g>
+		<rect y="-258" class="st0" width="258" height="258"/>
+		<g>
+			
+				<image style="overflow:visible;enable-background:new    ;" width="258" height="258" id="image-127_1_" xlink:href="597ED4CC246EC186.png"  transform="matrix(1 0 0 -1 158 -258)">
+			</image>
+		</g>
+	</g>
+</pattern>
+<pattern  y="460" width="258" height="258" patternUnits="userSpaceOnUse" id="pattern-129" viewBox="0 -258 258 258" style="overflow:visible;">
+	<g>
+		<rect y="-258" class="st0" width="258" height="258"/>
+		<g>
+			
+				<image style="overflow:visible;enable-background:new    ;" width="258" height="258" id="image-130_1_" xlink:href="597ED4CC246EC181.png"  transform="matrix(1 0 0 -1 142 -258)">
+			</image>
+		</g>
+	</g>
+</pattern>
+<pattern  y="460" width="258" height="258" patternUnits="userSpaceOnUse" id="pattern-132" viewBox="0 -258 258 258" style="overflow:visible;">
+	<g>
+		<rect y="-258" class="st0" width="258" height="258"/>
+		<g>
+			
+				<image style="overflow:visible;enable-background:new    ;" width="258" height="258" id="image-133_1_" xlink:href="597ED4CC246EC182.png"  transform="matrix(1 0 0 -1 126 -258)">
+			</image>
+		</g>
+	</g>
+</pattern>
+<pattern  y="460" width="258" height="258" patternUnits="userSpaceOnUse" id="pattern-135" viewBox="0 -258 258 258" style="overflow:visible;">
+	<g>
+		<rect y="-258" class="st0" width="258" height="258"/>
+		<g>
+			
+				<image style="overflow:visible;enable-background:new    ;" width="258" height="258" id="image-136_1_" xlink:href="597ED4CC246EC180.png"  transform="matrix(1 0 0 -1 238 -222)">
+			</image>
+		</g>
+	</g>
+</pattern>
+<pattern  y="460" width="258" height="258" patternUnits="userSpaceOnUse" id="pattern-138" viewBox="0 -258 258 258" style="overflow:visible;">
+	<g>
+		<rect y="-258" class="st0" width="258" height="258"/>
+		<g>
+			
+				<image style="overflow:visible;enable-background:new    ;" width="258" height="258" id="image-139_1_" xlink:href="597ED4CC246EC19E.png"  transform="matrix(1 0 0 -1 258 -258)">
+			</image>
+		</g>
+	</g>
+</pattern>
+<pattern  y="460" width="258" height="258" patternUnits="userSpaceOnUse" id="pattern-14" viewBox="0 -258 258 258" style="overflow:visible;">
+	<g>
+		<rect y="-258" class="st0" width="258" height="258"/>
+		<g>
+			
+				<image style="overflow:visible;enable-background:new    ;" width="258" height="258" id="image-15_1_" xlink:href="597ED4CC246EC183.png"  transform="matrix(1 0 0 -1 258 -258)">
+			</image>
+		</g>
+	</g>
+</pattern>
+<pattern  y="460" width="258" height="258" patternUnits="userSpaceOnUse" id="pattern-141" viewBox="0 -258 258 258" style="overflow:visible;">
+	<g>
+		<rect y="-258" class="st0" width="258" height="258"/>
+		<g>
+			
+				<image style="overflow:visible;enable-background:new    ;" width="258" height="258" id="image-142_1_" xlink:href="597ED4CC246EC187.png"  transform="matrix(1 0 0 -1 250 -250)">
+			</image>
+		</g>
+	</g>
+</pattern>
+<pattern  y="460" width="258" height="258" patternUnits="userSpaceOnUse" id="pattern-144" viewBox="0 -258 258 258" style="overflow:visible;">
+	<g>
+		<rect y="-258" class="st0" width="258" height="258"/>
+		<g>
+			
+				<image style="overflow:visible;enable-background:new    ;" width="258" height="258" id="image-145_1_" xlink:href="597ED4CC246EC185.png"  transform="matrix(1 0 0 -1 258 -258)">
+			</image>
+		</g>
+	</g>
+</pattern>
+<pattern  y="460" width="258" height="258" patternUnits="userSpaceOnUse" id="pattern-147" viewBox="0 -258 258 258" style="overflow:visible;">
+	<g>
+		<rect y="-258" class="st0" width="258" height="258"/>
+		<g>
+			
+				<image style="overflow:visible;enable-background:new    ;" width="258" height="258" id="image-148_1_" xlink:href="597ED4CC246EC18C.png"  transform="matrix(1 0 0 -1 258 -258)">
+			</image>
+		</g>
+	</g>
+</pattern>
+<pattern  y="460" width="258" height="258" patternUnits="userSpaceOnUse" id="pattern-150" viewBox="0 -258 258 258" style="overflow:visible;">
+	<g>
+		<rect y="-258" class="st0" width="258" height="258"/>
+		<g>
+			
+				<image style="overflow:visible;enable-background:new    ;" width="258" height="258" id="image-151_1_" xlink:href="597ED4CC246EC18D.png"  transform="matrix(1 0 0 -1 258 -258)">
+			</image>
+		</g>
+	</g>
+</pattern>
+<pattern  y="460" width="258" height="258" patternUnits="userSpaceOnUse" id="pattern-153" viewBox="0 -258 258 258" style="overflow:visible;">
+	<g>
+		<rect y="-258" class="st0" width="258" height="258"/>
+		<g>
+			
+				<image style="overflow:visible;enable-background:new    ;" width="258" height="258" id="image-154_1_" xlink:href="597ED4CC246EC1A5.png"  transform="matrix(1 0 0 -1 258 -258)">
+			</image>
+		</g>
+	</g>
+</pattern>
+<pattern  y="460" width="258" height="258" patternUnits="userSpaceOnUse" id="pattern-17" viewBox="0 -258 258 258" style="overflow:visible;">
+	<g>
+		<rect y="-258" class="st0" width="258" height="258"/>
+		<g>
+			
+				<image style="overflow:visible;enable-background:new    ;" width="258" height="258" id="image-18_1_" xlink:href="597ED4CC246EC1A7.png"  transform="matrix(1 0 0 -1 253 -244)">
+			</image>
+		</g>
+	</g>
+</pattern>
+<pattern  y="460" width="258" height="258" patternUnits="userSpaceOnUse" id="pattern-2" viewBox="0 -258 258 258" style="overflow:visible;">
+	<g>
+		<rect y="-258" class="st0" width="258" height="258"/>
+		<g>
+			
+				<image style="overflow:visible;enable-background:new    ;" width="258" height="258" id="image-3_1_" xlink:href="597ED4CC246EC1A4.png"  transform="matrix(1 0 0 -1 236 -258)">
+			</image>
+		</g>
+	</g>
+</pattern>
+<pattern  y="460" width="258" height="258" patternUnits="userSpaceOnUse" id="pattern-20" viewBox="0 -258 258 258" style="overflow:visible;">
+	<g>
+		<rect y="-258" class="st0" width="258" height="258"/>
+		<g>
+			
+				<image style="overflow:visible;enable-background:new    ;" width="258" height="258" id="image-21_1_" xlink:href="597ED4CC246EC1A3.png"  transform="matrix(1 0 0 -1 258 -258)">
+			</image>
+		</g>
+	</g>
+</pattern>
+<pattern  y="460" width="258" height="258" patternUnits="userSpaceOnUse" id="pattern-23" viewBox="0 -258 258 258" style="overflow:visible;">
+	<g>
+		<rect y="-258" class="st0" width="258" height="258"/>
+		<g>
+			
+				<image style="overflow:visible;enable-background:new    ;" width="258" height="258" id="image-24_1_" xlink:href="597ED4CC246EC1AD.png"  transform="matrix(1 0 0 -1 258 -258)">
+			</image>
+		</g>
+	</g>
+</pattern>
+<pattern  y="460" width="258" height="258" patternUnits="userSpaceOnUse" id="pattern-26" viewBox="0 -258 258 258" style="overflow:visible;">
+	<g>
+		<rect y="-258" class="st0" width="258" height="258"/>
+		<g>
+			
+				<image style="overflow:visible;enable-background:new    ;" width="258" height="258" id="image-27_1_" xlink:href="597ED4CC246EC1AF.png"  transform="matrix(1 0 0 -1 253 -244)">
+			</image>
+		</g>
+	</g>
+</pattern>
+<pattern  y="460" width="258" height="258" patternUnits="userSpaceOnUse" id="pattern-29" viewBox="0 -258 258 258" style="overflow:visible;">
+	<g>
+		<rect y="-258" class="st0" width="258" height="258"/>
+		<g>
+			
+				<image style="overflow:visible;enable-background:new    ;" width="258" height="258" id="image-30_1_" xlink:href="597ED4CC246EC1AC.png"  transform="matrix(1 0 0 -1 258 -258)">
+			</image>
+		</g>
+	</g>
+</pattern>
+<pattern  y="460" width="258" height="258" patternUnits="userSpaceOnUse" id="pattern-32" viewBox="0 -258 258 258" style="overflow:visible;">
+	<g>
+		<rect y="-258" class="st0" width="258" height="258"/>
+		<g>
+			
+				<image style="overflow:visible;enable-background:new    ;" width="258" height="258" id="image-33_1_" xlink:href="597ED4CC246EC1A6.png"  transform="matrix(1 0 0 -1 258 -258)">
+			</image>
+		</g>
+	</g>
+</pattern>
+<pattern  y="460" width="258" height="258" patternUnits="userSpaceOnUse" id="pattern-35" viewBox="0 -258 258 258" style="overflow:visible;">
+	<g>
+		<rect y="-258" class="st0" width="258" height="258"/>
+		<g>
+			
+				<image style="overflow:visible;enable-background:new    ;" width="258" height="258" id="image-36_1_" xlink:href="597ED4CC246EC199.png"  transform="matrix(1 0 0 -1 241 -258)">
+			</image>
+		</g>
+	</g>
+</pattern>
+<pattern  y="460" width="258" height="258" patternUnits="userSpaceOnUse" id="pattern-38" viewBox="0 -258 258 258" style="overflow:visible;">
+	<g>
+		<rect y="-258" class="st0" width="258" height="258"/>
+		<g>
+			
+				<image style="overflow:visible;enable-background:new    ;" width="258" height="258" id="image-39_1_" xlink:href="597ED4CC246EC19A.png"  transform="matrix(1 0 0 -1 215.7451 -168)">
+			</image>
+		</g>
+	</g>
+</pattern>
+<pattern  y="460" width="258" height="258" patternUnits="userSpaceOnUse" id="pattern-41" viewBox="0 -258 258 258" style="overflow:visible;">
+	<g>
+		<rect y="-258" class="st0" width="258" height="258"/>
+		<g>
+			
+				<image style="overflow:visible;enable-background:new    ;" width="258" height="258" id="image-42_1_" xlink:href="597ED4CC246EC1C8.png"  transform="matrix(1 0 0 -1 185 -168)">
+			</image>
+		</g>
+	</g>
+</pattern>
+<pattern  y="460" width="258" height="258" patternUnits="userSpaceOnUse" id="pattern-44" viewBox="0 -258 258 258" style="overflow:visible;">
+	<g>
+		<rect y="-258" class="st0" width="258" height="258"/>
+		<g>
+			
+				<image style="overflow:visible;enable-background:new    ;" width="258" height="258" id="image-45_1_" xlink:href="597ED4CC246EC1F7.png"  transform="matrix(1 0 0 -1 126 -258)">
+			</image>
+		</g>
+	</g>
+</pattern>
+<pattern  y="460" width="258" height="258" patternUnits="userSpaceOnUse" id="pattern-48" viewBox="0 -258 258 258" style="overflow:visible;">
+	<g>
+		<rect y="-258" class="st0" width="258" height="258"/>
+		<g>
+			
+				<image style="overflow:visible;enable-background:new    ;" width="258" height="258" id="image-49_1_" xlink:href="597ED4CC246EC1F8.png"  transform="matrix(1 0 0 -1 246 -197)">
+			</image>
+		</g>
+	</g>
+</pattern>
+<pattern  y="460" width="258" height="258" patternUnits="userSpaceOnUse" id="pattern-5" viewBox="0 -258 258 258" style="overflow:visible;">
+	<g>
+		<rect y="-258" class="st0" width="258" height="258"/>
+		<g>
+			
+				<image style="overflow:visible;enable-background:new    ;" width="258" height="258" id="image-6_1_" xlink:href="597ED4CC246EC1FB.png"  transform="matrix(1 0 0 -1 228 -250)">
+			</image>
+		</g>
+	</g>
+</pattern>
+<pattern  y="460" width="258" height="258" patternUnits="userSpaceOnUse" id="pattern-52" viewBox="0 -258 258 258" style="overflow:visible;">
+	<g>
+		<rect y="-258" class="st0" width="258" height="258"/>
+		<g>
+			
+				<image style="overflow:visible;enable-background:new    ;" width="258" height="258" id="image-53_1_" xlink:href="597ED4CC246EC1F9.png"  transform="matrix(1 0 0 -1 258 -211)">
+			</image>
+		</g>
+	</g>
+</pattern>
+<pattern  y="460" width="258" height="258" patternUnits="userSpaceOnUse" id="pattern-55" viewBox="0 -258 258 258" style="overflow:visible;">
+	<g>
+		<rect y="-258" class="st0" width="258" height="258"/>
+		<g>
+			
+				<image style="overflow:visible;enable-background:new    ;" width="258" height="258" id="image-56_1_" xlink:href="597ED4CC246EC1FF.png"  transform="matrix(1 0 0 -1 258 -33)">
+			</image>
+		</g>
+	</g>
+</pattern>
+<pattern  y="460" width="258" height="258" patternUnits="userSpaceOnUse" id="pattern-58" viewBox="0 -330 258 258" style="overflow:visible;">
+	<g>
+		<rect y="-330" class="st0" width="258" height="258"/>
+		<g>
+			
+				<image style="overflow:visible;enable-background:new    ;" width="258" height="258" id="image-59_1_" xlink:href="597ED4CC246EC1FA.png"  transform="matrix(1 0 0 -1 181 0)">
+			</image>
+		</g>
+	</g>
+</pattern>
+<pattern  y="460" width="258" height="258" patternUnits="userSpaceOnUse" id="pattern-61" viewBox="0 -258 258 258" style="overflow:visible;">
+	<g>
+		<rect y="-258" class="st0" width="258" height="258"/>
+		<g>
+			
+				<image style="overflow:visible;enable-background:new    ;" width="258" height="258" id="image-62_1_" xlink:href="597ED4CC246EC1F5.png"  transform="matrix(1 0 0 -1 132 -249)">
+			</image>
+		</g>
+	</g>
+</pattern>
+<pattern  y="460" width="258" height="258" patternUnits="userSpaceOnUse" id="pattern-64" viewBox="0 -258 258 258" style="overflow:visible;">
+	<g>
+		<rect y="-258" class="st0" width="258" height="258"/>
+		<g>
+			
+				<image style="overflow:visible;enable-background:new    ;" width="258" height="258" id="image-65_1_" xlink:href="597ED4CC246EC1F6.png"  transform="matrix(1 0 0 -1 258 -194)">
+			</image>
+		</g>
+	</g>
+</pattern>
+<pattern  y="460" width="258" height="258" patternUnits="userSpaceOnUse" id="pattern-67" viewBox="0 -258 258 258" style="overflow:visible;">
+	<g>
+		<rect y="-258" class="st0" width="258" height="258"/>
+		<g>
+			
+				<image style="overflow:visible;enable-background:new    ;" width="258" height="258" id="image-68_1_" xlink:href="597ED4CC246EC1F4.png"  transform="matrix(1 0 0 -1 256 -200)">
+			</image>
+		</g>
+	</g>
+</pattern>
+<pattern  y="460" width="258" height="258" patternUnits="userSpaceOnUse" id="pattern-70" viewBox="0 -258 258 258" style="overflow:visible;">
+	<g>
+		<rect y="-258" class="st0" width="258" height="258"/>
+		<g>
+			
+				<image style="overflow:visible;enable-background:new    ;" width="258" height="258" id="image-71_1_" xlink:href="597ED4CC246EC1D3.png"  transform="matrix(1 0 0 -1 252 -232)">
+			</image>
+		</g>
+	</g>
+</pattern>
+<pattern  y="460" width="258" height="258" patternUnits="userSpaceOnUse" id="pattern-73" viewBox="0 -258 258 258" style="overflow:visible;">
+	<g>
+		<rect y="-258" class="st0" width="258" height="258"/>
+		<g>
+			
+				<image style="overflow:visible;enable-background:new    ;" width="258" height="258" id="image-74_1_" xlink:href="597ED4CC246EC1D5.png"  transform="matrix(1 0 0 -1 252 -236)">
+			</image>
+		</g>
+	</g>
+</pattern>
+<pattern  y="460" width="258" height="258" patternUnits="userSpaceOnUse" id="pattern-76" viewBox="0 -258 258 258" style="overflow:visible;">
+	<g>
+		<rect y="-258" class="st0" width="258" height="258"/>
+		<g>
+			
+				<image style="overflow:visible;enable-background:new    ;" width="258" height="258" id="image-77_1_" xlink:href="597ED4CC246EC1D7.png"  transform="matrix(1 0 0 -1 252 -244)">
+			</image>
+		</g>
+	</g>
+</pattern>
+<pattern  y="460" width="258" height="258" patternUnits="userSpaceOnUse" id="pattern-79" viewBox="0 -258 258 258" style="overflow:visible;">
+	<g>
+		<rect y="-258" class="st0" width="258" height="258"/>
+		<g>
+			
+				<image style="overflow:visible;enable-background:new    ;" width="258" height="258" id="image-80_1_" xlink:href="597ED4CC246EC1D2.png"  transform="matrix(1 0 0 -1 247 -258)">
+			</image>
+		</g>
+	</g>
+</pattern>
+<pattern  y="460" width="258" height="258" patternUnits="userSpaceOnUse" id="pattern-8" viewBox="0 -258 258 258" style="overflow:visible;">
+	<g>
+		<rect y="-258" class="st0" width="258" height="258"/>
+		<g>
+			
+				<image style="overflow:visible;enable-background:new    ;" width="258" height="258" id="image-9_1_" xlink:href="597ED4CC246EC1D1.png"  transform="matrix(1 0 0 -1 226 -248)">
+			</image>
+		</g>
+	</g>
+</pattern>
+<pattern  y="460" width="258" height="258" patternUnits="userSpaceOnUse" id="pattern-82" viewBox="0 -258 258 258" style="overflow:visible;">
+	<g>
+		<rect y="-258" class="st0" width="258" height="258"/>
+		<g>
+			
+				<image style="overflow:visible;enable-background:new    ;" width="258" height="258" id="image-83_1_" xlink:href="597ED4CC246EC22D.png"  transform="matrix(1 0 0 -1 252 -232)">
+			</image>
+		</g>
+	</g>
+</pattern>
+<pattern  y="460" width="258" height="258" patternUnits="userSpaceOnUse" id="pattern-86" viewBox="0 -258 258 258" style="overflow:visible;">
+	<g>
+		<rect y="-258" class="st0" width="258" height="258"/>
+		<g>
+			
+				<image style="overflow:visible;enable-background:new    ;" width="258" height="258" id="image-87_1_" xlink:href="597ED4CC246EC22F.png"  transform="matrix(1 0 0 -1 258 -246)">
+			</image>
+		</g>
+	</g>
+</pattern>
+<pattern  y="460" width="258" height="258" patternUnits="userSpaceOnUse" id="pattern-89" viewBox="0 -258 258 258" style="overflow:visible;">
+	<g>
+		<rect y="-258" class="st0" width="258" height="258"/>
+		<g>
+			
+				<image style="overflow:visible;enable-background:new    ;" width="258" height="258" id="image-90_1_" xlink:href="597ED4CC246EC232.png"  transform="matrix(1 0 0 -1 248 -237)">
+			</image>
+		</g>
+	</g>
+</pattern>
+<pattern  y="460" width="258" height="258" patternUnits="userSpaceOnUse" id="pattern-92" viewBox="0 -258 258 258" style="overflow:visible;">
+	<g>
+		<rect y="-258" class="st0" width="258" height="258"/>
+		<g>
+			
+				<image style="overflow:visible;enable-background:new    ;" width="258" height="258" id="image-93_1_" xlink:href="597ED4CC246EC233.png"  transform="matrix(1 0 0 -1 229 -258)">
+			</image>
+		</g>
+	</g>
+</pattern>
+<pattern  y="460" width="258" height="258" patternUnits="userSpaceOnUse" id="pattern-95" viewBox="0 -258 258 258" style="overflow:visible;">
+	<g>
+		<rect y="-258" class="st0" width="258" height="258"/>
+		<g>
+			
+				<image style="overflow:visible;enable-background:new    ;" width="258" height="258" id="image-96_1_" xlink:href="597ED4CC246EC235.png"  transform="matrix(1 0 0 -1 223 -180)">
+			</image>
+		</g>
+	</g>
+</pattern>
+<pattern  y="460" width="258" height="258" patternUnits="userSpaceOnUse" id="pattern-98" viewBox="0 -258 258 258" style="overflow:visible;">
+	<g>
+		<rect y="-258" class="st0" width="258" height="258"/>
+		<g>
+			
+				<image style="overflow:visible;enable-background:new    ;" width="258" height="258" id="image-99_1_" xlink:href="597ED4CC246EC212.png"  transform="matrix(1 0 0 -1 226 -169)">
+			</image>
+		</g>
+	</g>
+</pattern>
+<title>Business Planning</title>
+<desc>Created with Sketch.</desc>
+<g id="Business-Planning">
+	<g id="Group-94" transform="translate(138.000000, 55.000000)">
+		<path id="Rectangle-46" class="st1" d="M8,334h561.7c4.4,0,8,3.6,8,8l0,0c0,4.4-3.6,8-8,8H8c-4.4,0-8-3.6-8-8l0,0
+			C0,337.6,3.6,334,8,334z"/>
+		<path id="Rectangle-46-Copy" class="st1" d="M596,334h320.6c4.4,0,8,3.6,8,8l0,0c0,4.4-3.6,8-8,8H596c-4.4,0-8-3.6-8-8l0,0
+			C588,337.6,591.6,334,596,334z"/>
+		<g id="Group-5" transform="translate(690.000000, 213.000000)">
+			<g id="Rectangle-22">
+				<g>
+					<path id="path-1" class="st2" d="M32,0h160c5.5,0,10,4.5,10,10v110H22V10C22,4.5,26.5,0,32,0z"/>
+				</g>
+				<g>
+					<pattern  id="path-1_2_" xlink:href="#pattern-2" patternTransform="matrix(1 0 0 -1 413 -16705.1738)">
+					</pattern>
+					<path id="path-1_1_" class="st3" d="M32,0h160c5.5,0,10,4.5,10,10v110H22V10C22,4.5,26.5,0,32,0z"/>
+				</g>
+			</g>
+			<g id="Rectangle-22_1_">
+				<g>
+					<path id="path-4" class="st4" d="M36,8h152c3.3,0,6,2.7,6,6v98H30V14C30,10.7,32.7,8,36,8z"/>
+				</g>
+				<g>
+					<pattern  id="path-4_2_" xlink:href="#pattern-5" patternTransform="matrix(1 0 0 -1 421 -16713.1738)">
+					</pattern>
+					<path id="path-4_1_" class="st5" d="M36,8h152c3.3,0,6,2.7,6,6v98H30V14C30,10.7,32.7,8,36,8z"/>
+				</g>
+			</g>
+			<g id="Rectangle-22_2_">
+				<g>
+					<path id="path-7" class="st6" d="M36,10h152c2.2,0,4,1.8,4,4v96H32V14C32,11.8,33.8,10,36,10z"/>
+				</g>
+				<g>
+					<pattern  id="path-7_2_" xlink:href="#pattern-8" patternTransform="matrix(1 0 0 -1 423 -16715.1738)">
+					</pattern>
+					<path id="path-7_1_" class="st7" d="M36,10h152c2.2,0,4,1.8,4,4v96H32V14C32,11.8,33.8,10,36,10z"/>
+				</g>
+			</g>
+			<circle id="Oval-6" class="st6" cx="112.5" cy="4.5" r="1.5"/>
+			<g id="Rectangle-23">
+				<g>
+					<rect id="path-10" x="7" y="117" class="st8" width="210" height="10"/>
+				</g>
+				<g>
+					<pattern  id="path-10_2_" xlink:href="#pattern-11" patternTransform="matrix(1 0 0 -1 398 -16822.1738)">
+					</pattern>
+					<rect id="path-10_1_" x="7" y="117" class="st9" width="210" height="10"/>
+				</g>
+			</g>
+			<rect id="Rectangle-24" x="97" y="117" class="st10" width="30" height="4"/>
+			<rect id="Rectangle-24_1_" x="7" y="123" class="st11" width="210" height="4"/>
+			<g id="Group-6" transform="translate(40.000000, 19.000000)">
+				<rect id="Rectangle-25" y="3" class="st12" width="100" height="70"/>
+				<g id="Rectangle-25_1_">
+					<g>
+						<rect id="path-13" y="0" class="st13" width="100" height="70"/>
+					</g>
+					<g>
+						<pattern  id="path-13_2_" xlink:href="#pattern-14" patternTransform="matrix(1 0 0 -1 431 -16724.1738)">
+						</pattern>
+						<rect id="path-13_1_" y="0" class="st14" width="100" height="70"/>
+					</g>
+				</g>
+				<g id="Rectangle-26">
+					<g>
+						<rect id="path-16" x="5" y="14" class="st15" width="90" height="56"/>
+					</g>
+					<g>
+						<pattern  id="path-16_2_" xlink:href="#pattern-17" patternTransform="matrix(1 0 0 -1 436 -16738.1738)">
+						</pattern>
+						<rect id="path-16_1_" x="5" y="14" class="st16" width="90" height="56"/>
+					</g>
+				</g>
+				<rect id="Rectangle-26_1_" x="5" y="12" class="st11" width="90" height="2"/>
+				<polygon id="Path-3" class="st17" points="12.8,25.8 12.8,21.8 60.6,21.8 60.6,25.8 				"/>
+				<polygon id="Path-3_1_" class="st17" points="12.8,36.8 12.8,32.8 40.6,32.8 40.6,36.8 				"/>
+				<polygon id="Path-3_2_" class="st17" points="12.8,43.8 12.8,39.8 40.6,39.8 40.6,43.8 				"/>
+				<polygon id="Path-3_3_" class="st17" points="12.8,50.8 12.8,46.8 30.6,46.8 30.6,50.8 				"/>
+				<rect id="Rectangle-27" x="79" y="36" class="st18" width="6" height="34"/>
+				<rect id="Rectangle-27-Copy" x="69" y="46" class="st19" width="6" height="24"/>
+				<rect id="Rectangle-27-Copy-2" x="60" y="56" class="st20" width="6" height="14"/>
+				<g id="Rectangle-25_2_">
+					<g>
+						<path id="path-19" class="st21" d="M2,0h96c1.1,0,2,0.9,2,2v6H0V2C0,0.9,0.9,0,2,0z"/>
+					</g>
+					<g>
+						<pattern  id="path-19_2_" xlink:href="#pattern-20" patternTransform="matrix(1 0 0 -1 431 -16724.1738)">
+						</pattern>
+						<path id="path-19_1_" class="st22" d="M2,0h96c1.1,0,2,0.9,2,2v6H0V2C0,0.9,0.9,0,2,0z"/>
+					</g>
+				</g>
+				<circle id="Oval-6-Copy" class="st20" cx="8" cy="4" r="1"/>
+				<circle id="Oval-6-Copy_1_" class="st6" cx="12" cy="4" r="1"/>
+				<circle id="Oval-6-Copy_2_" class="st18" cx="4" cy="4" r="1"/>
+			</g>
+			<path id="Rectangle-17-Copy-3" class="st12" d="M35,57h10.2c11,0,20,9,20,20v30.3h-20c0.4-15.9,0.4-27.3,0-34.3S41.3,60.6,35,57z
+				"/>
+			<path id="Rectangle-17-Copy" class="st12" d="M28.3,57H37v50c0,11-9,20-20,20H0.7c9.1-1.5,13.6-6.8,13.6-15.8
+				c0-13.4,0-26.8,0-40.2l0,0C14.3,63.3,20.6,57,28.3,57z"/>
+			<g id="Group-6_1_" transform="translate(134.000000, 41.000000)">
+				<rect id="Rectangle-25_3_" y="3" class="st12" width="50" height="60"/>
+				<g id="Rectangle-25_4_">
+					<g>
+						<rect id="path-22" y="0" class="st13" width="50" height="60"/>
+					</g>
+					<g>
+						<pattern  id="path-22_2_" xlink:href="#pattern-23" patternTransform="matrix(1 0 0 -1 525 -16746.1738)">
+						</pattern>
+						<rect id="path-22_1_" y="0" class="st23" width="50" height="60"/>
+					</g>
+				</g>
+				<g id="Rectangle-26_2_">
+					<g>
+						<rect id="path-25" x="5" y="14" class="st15" width="40" height="46"/>
+					</g>
+					<g>
+						<pattern  id="path-25_2_" xlink:href="#pattern-26" patternTransform="matrix(1 0 0 -1 530 -16760.1738)">
+						</pattern>
+						<rect id="path-25_1_" x="5" y="14" class="st24" width="40" height="46"/>
+					</g>
+				</g>
+				<polygon id="Path-7" class="st18" points="12.5,50.8 11.1,49.3 20.4,40.8 26.5,47.5 40.1,35.9 41.4,37.4 26.4,50.3 20.2,43.6 
+									"/>
+				<circle id="Oval-7" class="st18" cx="20" cy="42" r="2"/>
+				<circle id="Oval-7-Copy" class="st18" cx="27" cy="49" r="2"/>
+				<circle id="Oval-7-Copy-2" class="st18" cx="40" cy="37" r="2"/>
+				<circle id="Oval-7-Copy-3" class="st18" cx="12" cy="50" r="2"/>
+				<rect id="Rectangle-26_3_" x="5" y="12" class="st11" width="40" height="2"/>
+				<polygon id="Path-3_4_" class="st17" points="12.8,25.8 12.8,21.8 30.6,21.8 30.6,25.8 				"/>
+				<polygon id="Path-3_5_" class="st17" points="12.8,32.8 12.8,28.8 23.6,28.8 23.6,32.8 				"/>
+				<g id="Rectangle-25_5_">
+					<g>
+						<path id="path-28" class="st21" d="M2,0h46c1.1,0,2,0.9,2,2v6H0V2C0,0.9,0.9,0,2,0z"/>
+					</g>
+					<g>
+						<pattern  id="path-28_2_" xlink:href="#pattern-29" patternTransform="matrix(1 0 0 -1 525 -16746.1738)">
+						</pattern>
+						<path id="path-28_1_" class="st25" d="M2,0h46c1.1,0,2,0.9,2,2v6H0V2C0,0.9,0.9,0,2,0z"/>
+					</g>
+				</g>
+				<circle id="Oval-6-Copy_3_" class="st20" cx="8" cy="4" r="1"/>
+				<circle id="Oval-6-Copy_4_" class="st6" cx="12" cy="4" r="1"/>
+				<circle id="Oval-6-Copy_5_" class="st18" cx="4" cy="4" r="1"/>
+			</g>
+		</g>
+		<g id="Group-4" transform="translate(568.000000, 180.000000)">
+			<g id="Rectangle-17-Copy-2">
+				<g>
+					<path id="path-31" class="st26" d="M14,0h86v46H0V14C0,6.3,6.3,0,14,0z"/>
+				</g>
+				<g>
+					<pattern  id="path-31_2_" xlink:href="#pattern-32" patternTransform="matrix(1 0 0 -1 269 -16672.1738)">
+					</pattern>
+					<path id="path-31_1_" class="st27" d="M14,0h86v46H0V14C0,6.3,6.3,0,14,0z"/>
+				</g>
+			</g>
+			<g id="Rectangle-17">
+				<g>
+					<path id="path-34" class="st28" d="M17,0h90.2c11,0,20,9,20,20v140h-86c-7.7,0-14-6.3-14-14C27,66,27,22.7,27,16
+						C27,9.3,23.7,4,17,0z"/>
+				</g>
+				<g>
+					<pattern  id="path-34_2_" xlink:href="#pattern-35" patternTransform="matrix(1 0 0 -1 286 -16672.1738)">
+					</pattern>
+					<path id="path-34_1_" class="st29" d="M17,0h90.2c11,0,20,9,20,20v140h-86c-7.7,0-14-6.3-14-14C27,66,27,22.7,27,16
+						C27,9.3,23.7,4,17,0z"/>
+				</g>
+			</g>
+			<rect id="Rectangle-21" x="27" y="2" class="st15" width="45" height="2"/>
+			<path id="Combined-Shape" class="st30" d="M17,0h90.2H17z M126.8,16c0.3,1.3,0.4,2.6,0.4,4v140h-86c-7.7,0-14-6.3-14-14
+				C27,66,27,22.7,27,16c0,0,0,0,0,0H126.8z"/>
+			<polygon id="Path-6" class="st20" points="39.9,30.6 39.9,69 115.3,69 115.3,31.2 108.4,31.2 100.3,25.4 90.6,34 74.6,38.6 
+				67,29.2 58.8,38.6 49.8,31.5 			"/>
+			<polygon id="Path-6_1_" class="st19" points="39.9,46.6 39.9,69 115.3,69 115.3,37.3 108.4,47.2 100.3,41.4 90.6,50 74.6,54.6 
+				67,42.3 58.8,51.6 49.8,44.6 			"/>
+			<polygon id="Path-6_2_" class="st18" points="39.9,52.6 39.9,69 115.3,69 115.3,45.3 108.4,55.2 100.3,49.4 90.6,58 74.6,59.6 
+				67,52.3 58.8,61.6 49.8,54.6 			"/>
+			<polygon id="Path-3_6_" class="st26" points="39.8,80.8 39.8,76.8 87.6,76.8 87.6,80.8 			"/>
+			<polygon id="Path-3_7_" class="st26" points="40,89 40,85 87.9,85 87.9,89 			"/>
+			<polygon id="Path-3-Copy" class="st26" points="40,97 40,93 63.9,93 63.9,97 			"/>
+			<polygon id="Path-3-Copy_1_" class="st26" points="40,127 40,123 63.9,123 63.9,127 			"/>
+			<polygon id="Path-3-Copy-2" class="st26" points="40,135 40,131 63.9,131 63.9,135 			"/>
+			<g id="Rectangle-17-Copy_1_">
+				<g>
+					<path id="path-37" class="st26" d="M69.9,90H155v50c0,11-9,20-20,20H42.3c9.1-1.5,13.6-6.8,13.6-15.8c0-13.4,0-26.8,0-40.2l0,0
+						C55.9,96.3,62.2,90,69.9,90z"/>
+				</g>
+				<g>
+					<pattern  id="path-37_2_" xlink:href="#pattern-38" patternTransform="matrix(1 0 0 -1 311.2549 -16762.1738)">
+					</pattern>
+					<path id="path-37_1_" class="st31" d="M69.9,90H155v50c0,11-9,20-20,20H42.3c9.1-1.5,13.6-6.8,13.6-15.8c0-13.4,0-26.8,0-40.2
+						l0,0C55.9,96.3,62.2,90,69.9,90z"/>
+				</g>
+			</g>
+			<path id="Combined-Shape_1_" class="st32" d="M153.6,147.3c-2.9,7.4-10.2,12.7-18.6,12.7H42.3c8-1.3,12.5-5.6,13.4-12.7H153.6z"
+				/>
+			<g id="Rectangle-17-Copy-3_1_">
+				<g>
+					<path id="path-40" class="st28" d="M73,90h90.2c11,0,20,9,20,20v30.3h-100c0.4-15.9,0.4-27.3,0-34.3S79.3,93.6,73,90z"/>
+				</g>
+				<g>
+					<pattern  id="path-40_2_" xlink:href="#pattern-41" patternTransform="matrix(1 0 0 -1 342 -16762.1738)">
+					</pattern>
+					<path id="path-40_1_" class="st33" d="M73,90h90.2c11,0,20,9,20,20v30.3h-100c0.4-15.9,0.4-27.3,0-34.3S79.3,93.6,73,90z"/>
+				</g>
+			</g>
+			<polygon id="Path-3_8_" class="st26" points="97,111 97,107 122,107 122,111 			"/>
+			<polygon id="Path-3-Copy-3" class="st26" points="97,120 97,116 170.8,116 170.8,120 			"/>
+			<path id="Combined-Shape_2_" class="st30" d="M182.8,106H83.2c0,0,0,0,0,0c-0.4-7-3.8-12.3-10.2-16h90.2
+				C172.8,90,180.9,96.9,182.8,106z"/>
+			<rect id="Rectangle-21_1_" x="84" y="93" class="st15" width="45" height="2"/>
+		</g>
+		<g id="Group" transform="translate(321.000000, 0.000000)">
+			<polygon id="Path-4" class="st34" points="129.9,20.3 130.8,24.2 21.1,50.2 20.1,46.3 			"/>
+			<polygon id="Path-4_1_" class="st34" points="146.5,20.1 145.5,23.9 255.3,49.9 256.2,46 			"/>
+			<g id="Rectangle-5">
+				<g>
+					<rect id="path-43" x="132" y="0" class="st35" width="10" height="330"/>
+				</g>
+				<g>
+					<pattern  id="path-43_2_" xlink:href="#pattern-44" patternTransform="matrix(1 0 0 -1 154 -16492.1738)">
+					</pattern>
+					<rect id="path-43_1_" x="132" y="0" class="st36" width="10" height="330"/>
+				</g>
+			</g>
+			<rect id="Rectangle" x="12" y="61" class="st13" width="250" height="176"/>
+			<g id="Rectangle_1_">
+				<g>
+					
+						<linearGradient id="path-47_2_" gradientUnits="userSpaceOnUse" x1="-280.6953" y1="472.8293" x2="-279.826" y2="472.0414" gradientTransform="matrix(250 0 0 -176 70191 83290.5078)">
+						<stop  offset="1.877392e-02" style="stop-color:#F5F5F5"/>
+						<stop  offset="0.9821" style="stop-color:#FFFFFF"/>
+					</linearGradient>
+					<rect id="path-47" x="12" y="61" class="st37" width="250" height="176"/>
+				</g>
+				<g>
+					<pattern  id="path-47_4_" xlink:href="#pattern-48" patternTransform="matrix(1 0 0 -1 34 -16553.1738)">
+					</pattern>
+					<rect id="path-47_1_" x="12" y="61" class="st38" width="250" height="176"/>
+				</g>
+			</g>
+			<rect id="Rectangle-2" y="47" class="st39" width="274" height="36"/>
+			<rect id="Rectangle-2-Copy-2" y="225" class="st39" width="273" height="36"/>
+			<g id="Rectangle-2_1_">
+				<g>
+					
+						<linearGradient id="path-51_2_" gradientUnits="userSpaceOnUse" x1="-280.5962" y1="471.3159" x2="-279.7789" y2="470.5751" gradientTransform="matrix(274 0 0 -36 76899 17017.9219)">
+						<stop  offset="0" style="stop-color:#B6B6B6"/>
+						<stop  offset="1" style="stop-color:#D6D4D4"/>
+					</linearGradient>
+					<rect id="path-51" y="47" class="st40" width="274" height="36"/>
+				</g>
+				<g>
+					<pattern  id="path-51_4_" xlink:href="#pattern-52" patternTransform="matrix(1 0 0 -1 22 -16539.1738)">
+					</pattern>
+					<rect id="path-51_1_" y="47" class="st41" width="274" height="36"/>
+				</g>
+			</g>
+			<g id="Rectangle-2-Copy-3">
+				<g>
+					
+						<linearGradient id="path-54_2_" gradientUnits="userSpaceOnUse" x1="-280.5962" y1="471.3159" x2="-279.7789" y2="470.5751" gradientTransform="matrix(274 0 0 -36 76899 17195.9219)">
+						<stop  offset="0" style="stop-color:#B6B6B6"/>
+						<stop  offset="1" style="stop-color:#D6D4D4"/>
+					</linearGradient>
+					<rect id="path-54" y="225" class="st42" width="274" height="36"/>
+				</g>
+				<g>
+					<pattern  id="path-54_4_" xlink:href="#pattern-55" patternTransform="matrix(1 0 0 -1 22 -16717.1738)">
+					</pattern>
+					<rect id="path-54_1_" y="225" class="st43" width="274" height="36"/>
+				</g>
+			</g>
+			<rect id="Rectangle-2_2_" y="47" class="st44" width="274" height="10"/>
+			<rect id="Rectangle-2-Copy-4" y="225" class="st44" width="274" height="10"/>
+			<rect id="Rectangle-31" x="36" y="225" class="st12" width="6" height="36"/>
+			<rect id="Rectangle-2-Copy-4_1_" y="255" class="st45" width="274" height="6"/>
+			<rect id="Rectangle-2_3_" x="12" y="83" class="st12" width="250" height="10"/>
+			<polyline id="Path-2" class="st46" points="53.7,158.3 83.4,180.2 133.8,137.1 167.7,162.9 223.8,116.5 			"/>
+			<circle id="Oval" class="st18" cx="55.5" cy="160.5" r="6.5"/>
+			<circle id="Oval_1_" class="st18" cx="83.5" cy="178.5" r="6.5"/>
+			<circle id="Oval_2_" class="st18" cx="133.5" cy="137.5" r="6.5"/>
+			<circle id="Oval_3_" class="st18" cx="167.5" cy="160.5" r="6.5"/>
+			<circle id="Oval_4_" class="st18" cx="224.5" cy="117.5" r="6.5"/>
+			<polygon id="Path-3_9_" class="st17" points="193.8,179.8 193.8,175.8 241.6,175.8 241.6,179.8 			"/>
+			<polygon id="Path-3_10_" class="st17" points="193.8,189.8 193.8,185.8 241.6,185.8 241.6,189.8 			"/>
+			<polygon id="Path-3_11_" class="st17" points="203.8,200.8 203.8,196.8 241.6,196.8 241.6,200.8 			"/>
+			<rect id="Rectangle-3" y="47" class="st11" width="12" height="36"/>
+			<rect id="Rectangle-3-Copy-2" y="225" class="st11" width="12" height="36"/>
+			<rect id="Rectangle-3-Copy" x="262" y="47" class="st11" width="12" height="36"/>
+			<rect id="Rectangle-3-Copy-3" x="262" y="225" class="st11" width="12" height="36"/>
+			<rect id="Rectangle-4-Copy" x="7" y="231" class="st15" width="28" height="4"/>
+			<rect id="Rectangle-7" x="132" y="261" class="st47" width="10" height="26"/>
+			<g id="Rectangle-8">
+				<g>
+					<rect id="path-57" x="77" y="330" class="st35" width="120" height="10"/>
+				</g>
+				<g>
+					<pattern  id="path-57_2_" xlink:href="#pattern-58" patternTransform="matrix(1 0 0 -1 99 -16966.1738)">
+					</pattern>
+					<rect id="path-57_1_" x="77" y="330" class="st48" width="120" height="10"/>
+				</g>
+			</g>
+			<rect id="Rectangle-13" x="77" y="336" class="st12" width="120.1" height="4"/>
+			<g id="Oval-2">
+				<g>
+					<circle id="path-60" class="st49" cx="137" cy="20" r="11"/>
+				</g>
+				<g>
+					<pattern  id="path-60_2_" xlink:href="#pattern-61" patternTransform="matrix(1 0 0 -1 148 -16501.1738)">
+					</pattern>
+					<circle id="path-60_1_" class="st50" cx="137" cy="20" r="11"/>
+				</g>
+			</g>
+			<circle id="Oval-2_1_" class="st51" cx="137" cy="20" r="4"/>
+		</g>
+		<g id="Group-7" transform="translate(536.000000, 268.000000)">
+			<g id="Rectangle-28">
+				<g>
+					<rect id="path-63" y="64" class="st2" width="32" height="8"/>
+				</g>
+				<g>
+					<pattern  id="path-63_2_" xlink:href="#pattern-64" patternTransform="matrix(1 0 0 -1 237 -16824.1738)">
+					</pattern>
+					<rect id="path-63_1_" y="64" class="st52" width="32" height="8"/>
+				</g>
+			</g>
+			<path id="Combined-Shape_3_" class="st11" d="M32,68c0,2.2-1.8,4-4,4H4c-2.2,0-4-1.8-4-4H32z"/>
+			<g id="Rectangle-28-Copy">
+				<g>
+					<rect id="path-66" x="2" y="58" class="st8" width="28" height="6"/>
+				</g>
+				<g>
+					<pattern  id="path-66_2_" xlink:href="#pattern-67" patternTransform="matrix(1 0 0 -1 239 -16818.1738)">
+					</pattern>
+					<rect id="path-66_1_" x="2" y="58" class="st53" width="28" height="6"/>
+				</g>
+			</g>
+			<path id="Combined-Shape_4_" class="st11" d="M30,61c0,1.6-1.4,3-3,3H5c-1.6,0-3-1.3-3-3H30z"/>
+			<g id="Rectangle-28-Copy-2">
+				<g>
+					<polygon id="path-69" class="st2" points="10,26 22,26 26,58 6,58 					"/>
+				</g>
+				<g>
+					<pattern  id="path-69_2_" xlink:href="#pattern-70" patternTransform="matrix(1 0 0 -1 243 -16786.1738)">
+					</pattern>
+					<polygon id="path-69_1_" class="st54" points="10,26 22,26 26,58 6,58 					"/>
+				</g>
+			</g>
+			<path id="Combined-Shape_5_" class="st12" d="M22.5,30l0.5,4H9l0.5-4H22.5z"/>
+			<g id="Rectangle-28-Copy-2_1_">
+				<g>
+					<polygon id="path-72" class="st2" points="6,22 26,22 24,27 8,27 					"/>
+				</g>
+				<g>
+					<pattern  id="path-72_2_" xlink:href="#pattern-73" patternTransform="matrix(1 0 0 -1 243 -16782.1738)">
+					</pattern>
+					<polygon id="path-72_1_" class="st55" points="6,22 26,22 24,27 8,27 					"/>
+				</g>
+			</g>
+			<g id="Rectangle-28-Copy-2_2_">
+				<g>
+					<polygon id="path-75" class="st8" points="10,14 22,14 26,22 6,22 					"/>
+				</g>
+				<g>
+					<pattern  id="path-75_2_" xlink:href="#pattern-76" patternTransform="matrix(1 0 0 -1 243 -16774.1738)">
+					</pattern>
+					<polygon id="path-75_1_" class="st56" points="10,14 22,14 26,22 6,22 					"/>
+				</g>
+			</g>
+			<g id="Combined-Shape_6_">
+				<g>
+					<path id="path-78" class="st2" d="M18,4h3v4h-3v6h-4V8h-3V4h3V0h4V4z"/>
+				</g>
+				<g>
+					<pattern  id="path-78_2_" xlink:href="#pattern-79" patternTransform="matrix(1 0 0 -1 248 -16760.1738)">
+					</pattern>
+					<path id="path-78_1_" class="st57" d="M18,4h3v4h-3v6h-4V8h-3V4h3V0h4V4z"/>
+				</g>
+			</g>
+			<g id="Rectangle-28-Copy_1_">
+				<g>
+					<path id="path-81" class="st8" d="M8,26h16c1.1,0,2,0.9,2,2l0,0c0,1.1-0.9,2-2,2H8c-1.1,0-2-0.9-2-2l0,0C6,26.9,6.9,26,8,26z"
+						/>
+				</g>
+				<g>
+					<pattern  id="path-81_2_" xlink:href="#pattern-82" patternTransform="matrix(1 0 0 -1 243 -16786.1738)">
+					</pattern>
+					<path id="path-81_1_" class="st58" d="M8,26h16c1.1,0,2,0.9,2,2l0,0c0,1.1-0.9,2-2,2H8c-1.1,0-2-0.9-2-2l0,0
+						C6,26.9,6.9,26,8,26z"/>
+				</g>
+			</g>
+		</g>
+		<g id="Group-3" transform="translate(255.000000, 198.000000)">
+			<g id="Rectangle-9">
+				<g>
+					
+						<linearGradient id="path-85_2_" gradientUnits="userSpaceOnUse" x1="-215.7549" y1="274.7602" x2="-214.7549" y2="273.7602" gradientTransform="matrix(102 0 0 -130 22007 35730.8281)">
+						<stop  offset="0" style="stop-color:#798BA0"/>
+						<stop  offset="1" style="stop-color:#607286"/>
+					</linearGradient>
+					<rect id="path-85" y="12" class="st59" width="102" height="130"/>
+				</g>
+				<g>
+					<pattern  id="path-85_4_" xlink:href="#pattern-86" patternTransform="matrix(1 0 0 -1 -44 -16702.1738)">
+					</pattern>
+					<rect id="path-85_1_" y="12" class="st60" width="102" height="130"/>
+				</g>
+			</g>
+			<rect id="Rectangle-11" x="10" y="24" class="st61" width="82" height="105"/>
+			<rect id="Rectangle-11_1_" x="10" y="21" class="st62" width="82" height="104"/>
+			<polygon id="Rectangle-11_2_" class="st63" points="10,23 92,23 92,121 10,121 			"/>
+			<g id="Rectangle-11_3_">
+				<g>
+					
+						<linearGradient id="path-88_2_" gradientUnits="userSpaceOnUse" x1="-216.1622" y1="274.54" x2="-215.2929" y2="273.7521" gradientTransform="matrix(82 0 0 -100 17737 27481.5586)">
+						<stop  offset="1.877392e-02" style="stop-color:#F5F5F5"/>
+						<stop  offset="0.9821" style="stop-color:#FFFFFF"/>
+					</linearGradient>
+					<rect id="path-88" x="10" y="21" class="st64" width="82" height="100"/>
+				</g>
+				<g>
+					<pattern  id="path-88_4_" xlink:href="#pattern-89" patternTransform="matrix(1 0 0 -1 -34 -16711.1738)">
+					</pattern>
+					<rect id="path-88_1_" x="10" y="21" class="st65" width="82" height="100"/>
+				</g>
+			</g>
+			<polygon id="Path-3_12_" class="st17" points="21,56 21,52 68.9,52 68.9,56 			"/>
+			<polygon id="Path-3_13_" class="st17" points="21,64 21,60 68.9,60 68.9,64 			"/>
+			<polygon id="Path-3_14_" class="st17" points="21,46 21,42 58.9,42 58.9,46 			"/>
+			<g id="Rectangle-10">
+				<g>
+					<rect id="path-91" x="29" y="0" class="st66" width="46" height="26"/>
+				</g>
+				<g>
+					<pattern  id="path-91_2_" xlink:href="#pattern-92" patternTransform="matrix(1 0 0 -1 -15 -16690.1738)">
+					</pattern>
+					<rect id="path-91_1_" x="29" y="0" class="st67" width="46" height="26"/>
+				</g>
+			</g>
+			<rect id="Rectangle-10_1_" x="29" y="0" class="st68" width="46" height="6"/>
+			<rect id="Rectangle-14" x="31" y="2" class="st15" width="12" height="2"/>
+			<rect id="Rectangle-10-Copy" x="29" y="13" class="st12" width="46" height="13"/>
+			<rect id="Rectangle-10-Copy_1_" x="29" y="26" class="st12" width="46" height="2"/>
+			<rect id="Rectangle-12" x="10" y="121" class="st11" width="82" height="1"/>
+			<rect id="Rectangle-12-Copy" x="10" y="125" class="st11" width="82" height="1"/>
+			<rect id="Rectangle-12-Copy-2" x="10" y="129" class="st11" width="82" height="1"/>
+			<rect id="Rectangle-13_1_" y="138" class="st12" width="102" height="4"/>
+			<path id="Combined-Shape_7_" class="st18" d="M40.1,73v19.1H58C57.7,102,49.5,110,39.5,110C29.3,110,21,101.7,21,91.5
+				S29.3,73,39.5,73C39.7,73,39.9,73,40.1,73z"/>
+			<path id="Combined-Shape_8_" class="st19" d="M41.1,73.1c5.5,0.5,10.3,3.3,13.4,7.5l-13.4,9.6V73.1z"/>
+			<path id="Combined-Shape_9_" class="st20" d="M55.1,81.5c1.8,2.8,2.8,6,2.9,9.5H41.8L55.1,81.5z"/>
+		</g>
+		
+			<g id="Group-2" transform="translate(613.185552, 146.185552) rotate(-45.000000) translate(-613.185552, -146.185552) translate(573.185552, 82.685552)">
+			<g id="Rectangle-15">
+				<g>
+					
+						<rect id="path-94" x="35" y="78" transform="matrix(-1 2.535182e-06 -2.535182e-06 -1 80.0002 169.9999)" class="st69" width="10" height="14"/>
+				</g>
+				<g>
+					
+						<pattern  id="path-94_2_" xlink:href="#pattern-95" patternTransform="matrix(0.7071 -0.7071 -0.7071 -0.7071 -8146.3945 -19736.5625)">
+					</pattern>
+					<polygon id="path-94_1_" class="st70" points="35,78 45,78 45,92 35,92 					"/>
+				</g>
+			</g>
+			<path id="Combined-Shape_10_" class="st47" d="M45,82.7c-1.6,0.2-3.3,0.3-5,0.3c-1.7,0-3.4-0.1-5-0.3V78h10V82.7z"/>
+			<g id="Rectangle-16">
+				<g>
+					
+						<rect id="path-97" x="32" y="89" transform="matrix(-1 2.535182e-06 -2.535182e-06 -1 80.0002 215.9998)" class="st6" width="16" height="38"/>
+				</g>
+				<g>
+					
+						<pattern  id="path-97_2_" xlink:href="#pattern-98" patternTransform="matrix(0.7071 -0.7071 -0.7071 -0.7071 -8140.7373 -19746.4629)">
+					</pattern>
+					<polygon id="path-97_1_" class="st71" points="32,89 48,89 48,127 32,127 					"/>
+				</g>
+			</g>
+			
+				<rect id="Rectangle-16_1_" x="45" y="89" transform="matrix(-1 2.535182e-06 -2.535182e-06 -1 93.0002 215.9998)" class="st72" width="3" height="38"/>
+			<g id="Combined-Shape_11_">
+				<g>
+					<path id="path-100" class="st73" d="M40,80C17.9,80,0,62.1,0,40S17.9,0,40,0s40,17.9,40,40S62.1,80,40,80z M40,69
+						c16,0,29-13,29-29S56,11,40,11S11,24,11,40S24,69,40,69z"/>
+				</g>
+				<g>
+					
+						<pattern  id="path-100_2_" xlink:href="#pattern-101" patternTransform="matrix(0.7071 -0.7071 -0.7071 -0.7071 -8226.2979 -19706.1562)">
+					</pattern>
+					<path id="path-100_1_" class="st74" d="M40,80C17.9,80,0,62.1,0,40S17.9,0,40,0s40,17.9,40,40S62.1,80,40,80z M40,69
+						c16,0,29-13,29-29S56,11,40,11S11,24,11,40S24,69,40,69z"/>
+				</g>
+			</g>
+			<path id="Combined-Shape_12_" class="st75" d="M40,72C22.3,72,8,57.7,8,40S22.3,8,40,8s32,14.3,32,32S57.7,72,40,72z M40,69
+				c16,0,29-13,29-29S56,11,40,11S11,24,11,40S24,69,40,69z"/>
+			<circle id="Oval-4" class="st76" cx="40" cy="40" r="27"/>
+			<circle id="Oval-5" class="st15" cx="54" cy="27" r="4"/>
+			<circle id="Oval-5_1_" class="st15" cx="59.4" cy="36" r="2"/>
+		</g>
+		<g id="Group-8" transform="translate(80.000000, 234.000000)">
+			<g id="Rectangle-34">
+				<g>
+					<polygon id="path-103" class="st35" points="0,7 160,7 160,106 0,106 					"/>
+				</g>
+				<g>
+					<pattern  id="path-103_2_" xlink:href="#pattern-104" patternTransform="matrix(1 0 0 -1 -219 -16733.1738)">
+					</pattern>
+					<polygon id="path-103_1_" class="st77" points="0,7 160,7 160,106 0,106 					"/>
+				</g>
+			</g>
+			<rect id="Rectangle-13_2_" y="102" class="st12" width="160" height="4"/>
+			<polygon id="Rectangle-34_1_" class="st61" points="10,16 150,16 150,96 10,96 			"/>
+			<polygon id="Rectangle-34_2_" class="st62" points="10,14 150,14 150,94 10,94 			"/>
+			<g id="Rectangle-34_3_">
+				<g>
+					
+						<linearGradient id="path-107_2_" gradientUnits="userSpaceOnUse" x1="-40.2415" y1="238.3577" x2="-39.4042" y2="237.5987" gradientTransform="matrix(140 0 0 -80 5649 19087.0469)">
+						<stop  offset="0" style="stop-color:#FAFAFA"/>
+						<stop  offset="1" style="stop-color:#FFFFFF"/>
+					</linearGradient>
+					<polygon id="path-107" class="st78" points="10,12 150,12 150,92 10,92 					"/>
+				</g>
+				<g>
+					<pattern  id="path-107_4_" xlink:href="#pattern-108" patternTransform="matrix(1 0 0 -1 -209 -16738.1738)">
+					</pattern>
+					<polygon id="path-107_1_" class="st79" points="10,12 150,12 150,92 10,92 					"/>
+				</g>
+			</g>
+			<polygon id="Path-3_15_" class="st17" points="60,41 60,37 97.9,37 97.9,41 			"/>
+			<polygon id="Path-3_16_" class="st17" points="60,67 60,63 77.9,63 77.9,67 			"/>
+			<polygon id="Path-3_17_" class="st17" points="91.5,67 91.5,63 109.4,63 109.4,67 			"/>
+			<polygon id="Path-3_18_" class="st17" points="123,67 123,63 140.9,63 140.9,67 			"/>
+			<polygon id="Path-3_19_" class="st17" points="60,77 60,73 77.9,73 77.9,77 			"/>
+			<polygon id="Path-3_20_" class="st17" points="91.5,77 91.5,73 109.4,73 109.4,77 			"/>
+			<polygon id="Path-3_21_" class="st17" points="123,77 123,73 140.9,73 140.9,77 			"/>
+			<polygon id="Path-3_22_" class="st17" points="60,50 60,46 139.8,46 139.8,50 			"/>
+			<rect id="Rectangle-12_1_" x="10" y="92" class="st11" width="140" height="1"/>
+			<rect id="Rectangle-12_2_" x="10" y="94" class="st11" width="140" height="1"/>
+			<rect id="Rectangle-12_3_" x="10" y="96" class="st11" width="140" height="1"/>
+			<circle id="Oval-8" class="st80" cx="22" cy="22" r="3"/>
+			<circle id="Oval-8-Copy" class="st80" cx="38" cy="22" r="3"/>
+			<circle id="Oval-8-Copy_1_" class="st80" cx="54" cy="22" r="3"/>
+			<circle id="Oval-8-Copy-2" class="st80" cx="70" cy="22" r="3"/>
+			<circle id="Oval-8-Copy-3" class="st80" cx="86" cy="22" r="3"/>
+			<circle id="Oval-8-Copy-4" class="st80" cx="102" cy="22" r="3"/>
+			<circle id="Oval-8-Copy-5" class="st80" cx="118" cy="22" r="3"/>
+			<circle id="Oval-8-Copy-6" class="st80" cx="134" cy="22" r="3"/>
+			<g id="Rectangle-35">
+				<g>
+					<path id="path-110" class="st73" d="M22,0L22,0c1.1,0,2,0.9,2,2v20c0,1.1-0.9,2-2,2l0,0c-1.1,0-2-0.9-2-2V2C20,0.9,20.9,0,22,0
+						z"/>
+				</g>
+				<g>
+					<pattern  id="path-110_2_" xlink:href="#pattern-111" patternTransform="matrix(1 0 0 -1 -199 -16726.1738)">
+					</pattern>
+					<path id="path-110_1_" class="st81" d="M22,0L22,0c1.1,0,2,0.9,2,2v20c0,1.1-0.9,2-2,2l0,0c-1.1,0-2-0.9-2-2V2
+						C20,0.9,20.9,0,22,0z"/>
+				</g>
+			</g>
+			<g id="Rectangle-35-Copy">
+				<g>
+					<path id="path-113" class="st73" d="M38,0L38,0c1.1,0,2,0.9,2,2v20c0,1.1-0.9,2-2,2l0,0c-1.1,0-2-0.9-2-2V2C36,0.9,36.9,0,38,0
+						z"/>
+				</g>
+				<g>
+					<pattern  id="path-113_2_" xlink:href="#pattern-114" patternTransform="matrix(1 0 0 -1 -183 -16726.1738)">
+					</pattern>
+					<path id="path-113_1_" class="st82" d="M38,0L38,0c1.1,0,2,0.9,2,2v20c0,1.1-0.9,2-2,2l0,0c-1.1,0-2-0.9-2-2V2
+						C36,0.9,36.9,0,38,0z"/>
+				</g>
+			</g>
+			<g id="Rectangle-35-Copy-2">
+				<g>
+					<path id="path-116" class="st73" d="M54,0L54,0c1.1,0,2,0.9,2,2v20c0,1.1-0.9,2-2,2l0,0c-1.1,0-2-0.9-2-2V2C52,0.9,52.9,0,54,0
+						z"/>
+				</g>
+				<g>
+					<pattern  id="path-116_2_" xlink:href="#pattern-117" patternTransform="matrix(1 0 0 -1 -167 -16726.1738)">
+					</pattern>
+					<path id="path-116_1_" class="st83" d="M54,0L54,0c1.1,0,2,0.9,2,2v20c0,1.1-0.9,2-2,2l0,0c-1.1,0-2-0.9-2-2V2
+						C52,0.9,52.9,0,54,0z"/>
+				</g>
+			</g>
+			<g id="Rectangle-35-Copy-3">
+				<g>
+					<path id="path-119" class="st73" d="M70,0L70,0c1.1,0,2,0.9,2,2v20c0,1.1-0.9,2-2,2l0,0c-1.1,0-2-0.9-2-2V2C68,0.9,68.9,0,70,0
+						z"/>
+				</g>
+				<g>
+					<pattern  id="path-119_2_" xlink:href="#pattern-120" patternTransform="matrix(1 0 0 -1 -151 -16726.1738)">
+					</pattern>
+					<path id="path-119_1_" class="st84" d="M70,0L70,0c1.1,0,2,0.9,2,2v20c0,1.1-0.9,2-2,2l0,0c-1.1,0-2-0.9-2-2V2
+						C68,0.9,68.9,0,70,0z"/>
+				</g>
+			</g>
+			<g id="Rectangle-35-Copy-4">
+				<g>
+					<path id="path-122" class="st73" d="M86,0L86,0c1.1,0,2,0.9,2,2v20c0,1.1-0.9,2-2,2l0,0c-1.1,0-2-0.9-2-2V2C84,0.9,84.9,0,86,0
+						z"/>
+				</g>
+				<g>
+					<pattern  id="path-122_2_" xlink:href="#pattern-123" patternTransform="matrix(1 0 0 -1 -135 -16726.1738)">
+					</pattern>
+					<path id="path-122_1_" class="st85" d="M86,0L86,0c1.1,0,2,0.9,2,2v20c0,1.1-0.9,2-2,2l0,0c-1.1,0-2-0.9-2-2V2
+						C84,0.9,84.9,0,86,0z"/>
+				</g>
+			</g>
+			<g id="Rectangle-35-Copy-5">
+				<g>
+					<path id="path-125" class="st73" d="M102,0L102,0c1.1,0,2,0.9,2,2v20c0,1.1-0.9,2-2,2l0,0c-1.1,0-2-0.9-2-2V2
+						C100,0.9,100.9,0,102,0z"/>
+				</g>
+				<g>
+					<pattern  id="path-125_2_" xlink:href="#pattern-126" patternTransform="matrix(1 0 0 -1 -119 -16726.1738)">
+					</pattern>
+					<path id="path-125_1_" class="st86" d="M102,0L102,0c1.1,0,2,0.9,2,2v20c0,1.1-0.9,2-2,2l0,0c-1.1,0-2-0.9-2-2V2
+						C100,0.9,100.9,0,102,0z"/>
+				</g>
+			</g>
+			<g id="Rectangle-35-Copy-6">
+				<g>
+					<path id="path-128" class="st73" d="M118,0L118,0c1.1,0,2,0.9,2,2v20c0,1.1-0.9,2-2,2l0,0c-1.1,0-2-0.9-2-2V2
+						C116,0.9,116.9,0,118,0z"/>
+				</g>
+				<g>
+					<pattern  id="path-128_2_" xlink:href="#pattern-129" patternTransform="matrix(1 0 0 -1 -103 -16726.1738)">
+					</pattern>
+					<path id="path-128_1_" class="st87" d="M118,0L118,0c1.1,0,2,0.9,2,2v20c0,1.1-0.9,2-2,2l0,0c-1.1,0-2-0.9-2-2V2
+						C116,0.9,116.9,0,118,0z"/>
+				</g>
+			</g>
+			<g id="Rectangle-35-Copy-7">
+				<g>
+					<path id="path-131" class="st73" d="M134,0L134,0c1.1,0,2,0.9,2,2v20c0,1.1-0.9,2-2,2l0,0c-1.1,0-2-0.9-2-2V2
+						C132,0.9,132.9,0,134,0z"/>
+				</g>
+				<g>
+					<pattern  id="path-131_2_" xlink:href="#pattern-132" patternTransform="matrix(1 0 0 -1 -87 -16726.1738)">
+					</pattern>
+					<path id="path-131_1_" class="st88" d="M134,0L134,0c1.1,0,2,0.9,2,2v20c0,1.1-0.9,2-2,2l0,0c-1.1,0-2-0.9-2-2V2
+						C132,0.9,132.9,0,134,0z"/>
+				</g>
+			</g>
+			<path id="Combined-Shape_13_" class="st11" d="M22,24c-1.1,0-2-0.9-2-2V2c0-1.1,0.9-2,2-2V24z"/>
+			<path id="Combined-Shape-Copy" class="st11" d="M38,24c-1.1,0-2-0.9-2-2V2c0-1.1,0.9-2,2-2V24z"/>
+			<path id="Combined-Shape-Copy-2" class="st11" d="M54,24c-1.1,0-2-0.9-2-2V2c0-1.1,0.9-2,2-2V24z"/>
+			<path id="Combined-Shape-Copy-3" class="st11" d="M70,24c-1.1,0-2-0.9-2-2V2c0-1.1,0.9-2,2-2V24z"/>
+			<path id="Combined-Shape-Copy-4" class="st11" d="M86,24c-1.1,0-2-0.9-2-2V2c0-1.1,0.9-2,2-2V24z"/>
+			<path id="Combined-Shape-Copy-5" class="st11" d="M102,24c-1.1,0-2-0.9-2-2V2c0-1.1,0.9-2,2-2V24z"/>
+			<path id="Combined-Shape-Copy-6" class="st11" d="M118,24c-1.1,0-2-0.9-2-2V2c0-1.1,0.9-2,2-2V24z"/>
+			<path id="Combined-Shape-Copy-7" class="st11" d="M134,24c-1.1,0-2-0.9-2-2V2c0-1.1,0.9-2,2-2V24z"/>
+			<g id="Rectangle-37">
+				<g>
+					<rect id="path-134" x="20" y="36" class="st89" width="32" height="46"/>
+				</g>
+				<g>
+					<pattern  id="path-134_2_" xlink:href="#pattern-135" patternTransform="matrix(1 0 0 -1 -199 -16762.1738)">
+					</pattern>
+					<rect id="path-134_1_" x="20" y="36" class="st90" width="32" height="46"/>
+				</g>
+			</g>
+		</g>
+		<g id="Group-11" transform="translate(18.000000, 274.000000)">
+			<circle id="Oval-9" class="st12" cx="36" cy="33" r="33"/>
+			<g id="Oval-9_1_">
+				<g>
+					<circle id="path-137" class="st91" cx="33" cy="33" r="33"/>
+				</g>
+				<g>
+					<pattern  id="path-137_2_" xlink:href="#pattern-138" patternTransform="matrix(1 0 0 -1 -281 -16766.1738)">
+					</pattern>
+					<circle id="path-137_1_" class="st92" cx="33" cy="33" r="33"/>
+				</g>
+			</g>
+			<circle id="Oval-9_2_" class="st93" cx="33" cy="33" r="27"/>
+			<g id="Oval-9_3_">
+				<g>
+					<circle id="path-140" class="st15" cx="33" cy="33" r="25"/>
+				</g>
+				<g>
+					<pattern  id="path-140_2_" xlink:href="#pattern-141" patternTransform="matrix(1 0 0 -1 -273 -16774.1738)">
+					</pattern>
+					<circle id="path-140_1_" class="st94" cx="33" cy="33" r="25"/>
+				</g>
+			</g>
+			<circle id="Oval-9_4_" class="st17" cx="33" cy="33" r="3"/>
+			<g id="Group-10" transform="translate(32.000000, 11.000000)">
+				<path id="Rectangle-40" class="st95" d="M1,0L1,0c0.6,0,1,0.4,1,1v3c0,0.6-0.4,1-1,1l0,0C0.4,5,0,4.6,0,4V1C0,0.4,0.4,0,1,0z"/>
+				<path id="Rectangle-40-Copy" class="st95" d="M1,39L1,39c0.6,0,1,0.4,1,1v3c0,0.6-0.4,1-1,1l0,0c-0.6,0-1-0.4-1-1v-3
+					C0,39.4,0.4,39,1,39z"/>
+			</g>
+			
+				<g id="Group-10_1_" transform="translate(33.000000, 33.000000) rotate(-270.000000) translate(-33.000000, -33.000000) translate(32.000000, 11.000000)">
+				<path id="Rectangle-40_1_" class="st95" d="M1,0L1,0c0.6,0,1,0.4,1,1v3c0,0.6-0.4,1-1,1l0,0C0.4,5,0,4.6,0,4V1C0,0.4,0.4,0,1,0z
+					"/>
+				<path id="Rectangle-40-Copy_1_" class="st95" d="M1,39L1,39c0.6,0,1,0.4,1,1v3c0,0.6-0.4,1-1,1l0,0c-0.6,0-1-0.4-1-1v-3
+					C0,39.4,0.4,39,1,39z"/>
+			</g>
+			
+				<g id="Group-10_2_" transform="translate(33.000000, 33.000000) rotate(-315.000000) translate(-33.000000, -33.000000) translate(32.000000, 11.000000)">
+				<path id="Rectangle-40_2_" class="st95" d="M1,0L1,0c0.6,0,1,0.4,1,1v3c0,0.6-0.4,1-1,1l0,0C0.4,5,0,4.6,0,4V1C0,0.4,0.4,0,1,0z
+					"/>
+				<path id="Rectangle-40-Copy_2_" class="st95" d="M1,39L1,39c0.6,0,1,0.4,1,1v3c0,0.6-0.4,1-1,1l0,0c-0.6,0-1-0.4-1-1v-3
+					C0,39.4,0.4,39,1,39z"/>
+			</g>
+			
+				<g id="Group-10_3_" transform="translate(33.000000, 33.000000) rotate(-585.000000) translate(-33.000000, -33.000000) translate(32.000000, 11.000000)">
+				<path id="Rectangle-40_3_" class="st95" d="M1,0L1,0c0.6,0,1,0.4,1,1v3c0,0.6-0.4,1-1,1l0,0C0.4,5,0,4.6,0,4V1C0,0.4,0.4,0,1,0z
+					"/>
+				<path id="Rectangle-40-Copy_3_" class="st95" d="M1,39L1,39c0.6,0,1,0.4,1,1v3c0,0.6-0.4,1-1,1l0,0c-0.6,0-1-0.4-1-1v-3
+					C0,39.4,0.4,39,1,39z"/>
+			</g>
+			<path id="Rectangle-41" class="st95" d="M33,23L33,23c1.1,0,2,0.9,2,2v8c0,1.1-0.9,2-2,2l0,0c-1.1,0-2-0.9-2-2v-8
+				C31,23.9,31.9,23,33,23z"/>
+			<path id="Rectangle-41-Copy" class="st11" d="M31.6,34L31.6,34c0.3-1.1,1.4-1.7,2.5-1.3l11.5,3.5c1.1,0.3,1.7,1.4,1.3,2.5l0,0
+				c-0.3,1.1-1.4,1.7-2.5,1.3l-11.5-3.5C31.9,36.1,31.3,35,31.6,34z"/>
+			<path id="Rectangle-41-Copy_1_" class="st95" d="M31.6,33.1L31.6,33.1c0.3-1.1,1.4-1.7,2.5-1.4L45.6,35c1.1,0.3,1.7,1.4,1.4,2.5
+				l0,0c-0.3,1.1-1.4,1.7-2.5,1.4l-11.5-3.3C31.9,35.3,31.3,34.1,31.6,33.1z"/>
+		</g>
+		<g id="Group-14" transform="translate(374.000000, 280.000000)">
+			<g id="Group-13" transform="translate(0.000000, 52.000000)">
+				<g id="Rectangle-42">
+					<g>
+						<rect id="path-143" y="0" class="st96" width="36" height="8"/>
+					</g>
+					<g>
+						<pattern  id="path-143_2_" xlink:href="#pattern-144" patternTransform="matrix(1 0 0 -1 75 -16824.1738)">
+						</pattern>
+						<rect id="path-143_1_" y="0" class="st97" width="36" height="8"/>
+					</g>
+				</g>
+				<path id="Combined-Shape_14_" class="st98" d="M4,1c0.6,0,1,0.4,1,1v4c0,0.6-0.4,1-1,1S3,6.6,3,6V2C3,1.4,3.4,1,4,1z M8,1
+					c0.6,0,1,0.4,1,1v4c0,0.6-0.4,1-1,1S7,6.6,7,6V2C7,1.4,7.4,1,8,1z M12,1c0.6,0,1,0.4,1,1v4c0,0.6-0.4,1-1,1s-1-0.4-1-1V2
+					C11,1.4,11.4,1,12,1z M16,1c0.6,0,1,0.4,1,1v4c0,0.6-0.4,1-1,1s-1-0.4-1-1V2C15,1.4,15.4,1,16,1z M20,1c0.6,0,1,0.4,1,1v4
+					c0,0.6-0.4,1-1,1s-1-0.4-1-1V2C19,1.4,19.4,1,20,1z M24,1c0.6,0,1,0.4,1,1v4c0,0.6-0.4,1-1,1s-1-0.4-1-1V2C23,1.4,23.4,1,24,1z
+					 M28,1c0.6,0,1,0.4,1,1v4c0,0.6-0.4,1-1,1s-1-0.4-1-1V2C27,1.4,27.4,1,28,1z M32,1c0.6,0,1,0.4,1,1v4c0,0.6-0.4,1-1,1
+					s-1-0.4-1-1V2C31,1.4,31.4,1,32,1z"/>
+				<path id="Combined-Shape_15_" class="st11" d="M36,6c0,1.1-0.9,2-2,2H2C0.9,8,0,7.1,0,6H36z"/>
+			</g>
+			<g id="Group-13-Copy" transform="translate(0.000000, 44.000000)">
+				<g id="Rectangle-42_1_">
+					<g>
+						<rect id="path-146" y="0" class="st96" width="36" height="8"/>
+					</g>
+					<g>
+						<pattern  id="path-146_2_" xlink:href="#pattern-147" patternTransform="matrix(1 0 0 -1 75 -16816.1738)">
+						</pattern>
+						<rect id="path-146_1_" y="0" class="st99" width="36" height="8"/>
+					</g>
+				</g>
+				<path id="Combined-Shape_16_" class="st98" d="M4,1c0.6,0,1,0.4,1,1v4c0,0.6-0.4,1-1,1S3,6.6,3,6V2C3,1.4,3.4,1,4,1z M8,1
+					c0.6,0,1,0.4,1,1v4c0,0.6-0.4,1-1,1S7,6.6,7,6V2C7,1.4,7.4,1,8,1z M12,1c0.6,0,1,0.4,1,1v4c0,0.6-0.4,1-1,1s-1-0.4-1-1V2
+					C11,1.4,11.4,1,12,1z M16,1c0.6,0,1,0.4,1,1v4c0,0.6-0.4,1-1,1s-1-0.4-1-1V2C15,1.4,15.4,1,16,1z M20,1c0.6,0,1,0.4,1,1v4
+					c0,0.6-0.4,1-1,1s-1-0.4-1-1V2C19,1.4,19.4,1,20,1z M24,1c0.6,0,1,0.4,1,1v4c0,0.6-0.4,1-1,1s-1-0.4-1-1V2C23,1.4,23.4,1,24,1z
+					 M28,1c0.6,0,1,0.4,1,1v4c0,0.6-0.4,1-1,1s-1-0.4-1-1V2C27,1.4,27.4,1,28,1z M32,1c0.6,0,1,0.4,1,1v4c0,0.6-0.4,1-1,1
+					s-1-0.4-1-1V2C31,1.4,31.4,1,32,1z"/>
+				<path id="Combined-Shape_17_" class="st11" d="M36,6c0,1.1-0.9,2-2,2H2C0.9,8,0,7.1,0,6H36z"/>
+			</g>
+			<g id="Group-13-Copy-2" transform="translate(0.000000, 36.000000)">
+				<g id="Rectangle-42_2_">
+					<g>
+						<rect id="path-149" y="0" class="st96" width="36" height="8"/>
+					</g>
+					<g>
+						<pattern  id="path-149_2_" xlink:href="#pattern-150" patternTransform="matrix(1 0 0 -1 75 -16808.1738)">
+						</pattern>
+						<rect id="path-149_1_" y="0" class="st100" width="36" height="8"/>
+					</g>
+				</g>
+				<path id="Combined-Shape_18_" class="st98" d="M4,1c0.6,0,1,0.4,1,1v4c0,0.6-0.4,1-1,1S3,6.6,3,6V2C3,1.4,3.4,1,4,1z M8,1
+					c0.6,0,1,0.4,1,1v4c0,0.6-0.4,1-1,1S7,6.6,7,6V2C7,1.4,7.4,1,8,1z M12,1c0.6,0,1,0.4,1,1v4c0,0.6-0.4,1-1,1s-1-0.4-1-1V2
+					C11,1.4,11.4,1,12,1z M16,1c0.6,0,1,0.4,1,1v4c0,0.6-0.4,1-1,1s-1-0.4-1-1V2C15,1.4,15.4,1,16,1z M20,1c0.6,0,1,0.4,1,1v4
+					c0,0.6-0.4,1-1,1s-1-0.4-1-1V2C19,1.4,19.4,1,20,1z M24,1c0.6,0,1,0.4,1,1v4c0,0.6-0.4,1-1,1s-1-0.4-1-1V2C23,1.4,23.4,1,24,1z
+					 M28,1c0.6,0,1,0.4,1,1v4c0,0.6-0.4,1-1,1s-1-0.4-1-1V2C27,1.4,27.4,1,28,1z M32,1c0.6,0,1,0.4,1,1v4c0,0.6-0.4,1-1,1
+					s-1-0.4-1-1V2C31,1.4,31.4,1,32,1z"/>
+				<path id="Combined-Shape_19_" class="st11" d="M36,6c0,1.1-0.9,2-2,2H2C0.9,8,0,7.1,0,6H36z"/>
+			</g>
+			<g id="Group-12">
+				<g id="Oval-10">
+					<g>
+						<circle id="path-152" class="st96" cx="18" cy="18" r="18"/>
+					</g>
+					<g>
+						<pattern  id="path-152_2_" xlink:href="#pattern-153" patternTransform="matrix(1 0 0 -1 75 -16772.1738)">
+						</pattern>
+						<circle id="path-152_1_" class="st101" cx="18" cy="18" r="18"/>
+					</g>
+				</g>
+				<circle id="Oval-10_1_" class="st102" cx="18" cy="18" r="14"/>
+				<text transform="matrix(1 0 0 1 13 27)" class="st103 st104 st105">$</text>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
